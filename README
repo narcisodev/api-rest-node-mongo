@@ -1,0 +1,7 @@
+PASSOS PARA A CRIAÇÃO DA API
+
+1 $npm init -> para criar o arquivo package.json que gerencia as dependências da aplicação
+2 $npm add express -> framework para Node JS que ajuda a fazer a tratativa de rotas e request http
+3 $npm add body-parser -> permite que o Node receba informações através de JSON nas requisições e tambem permite que o Node reconheca parâmetros GET passados na  URL
+4 $npm add mongoose -> adiciona pacote de manipulação do Mongo DB
+5 $npm add bcryptjs -> biblioteca usada para encriptar senhas para salvar no DB
