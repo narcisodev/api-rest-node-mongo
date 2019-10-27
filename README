@@ -5,3 +5,4 @@ PASSOS PARA A CRIAÇÃO DA API
 3 $npm add body-parser -> permite que o Node receba informações através de JSON nas requisições e tambem permite que o Node reconheca parâmetros GET passados na  URL
 4 $npm add mongoose -> adiciona pacote de manipulação do Mongo DB
 5 $npm add bcryptjs -> biblioteca usada para encriptar senhas para salvar no DB
+6 $npm add jsonwebtoken -> pacote utilizado para a geração de token após a autenticação do usuário
